@@ -3,6 +3,7 @@
 [![codecov](https://codecov.io/gh/cucumber/godog/branch/master/graph/badge.svg)](https://codecov.io/gh/cucumber/godog)
 [![pull requests](https://oselvar.com/api/badge?label=pull%20requests&csvUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fcucumber%2Foselvar-github-metrics%2Fmain%2Fdata%2Fcucumber%2Fgodog%2FpullRequests.csv)](https://oselvar.com/github/cucumber/oselvar-github-metrics/main/cucumber/godog)
 [![issues](https://oselvar.com/api/badge?label=issues&csvUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fcucumber%2Foselvar-github-metrics%2Fmain%2Fdata%2Fcucumber%2Fgodog%2Fissues.csv)](https://oselvar.com/github/cucumber/oselvar-github-metrics/main/cucumber/godog)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarleeto%2Fgodog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarleeto%2Fgodog?ref=badge_shield)
 
 # Godog
 
@@ -605,3 +606,6 @@ A simple example can be [found here](/_examples/custom-formatter).
 [license]: https://en.wikipedia.org/wiki/MIT_License "The MIT license"
 [contributing guide]: https://github.com/cucumber/godog/blob/main/CONTRIBUTING.md
 [community Slack]: https://cucumber.io/community#slack
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarleeto%2Fgodog.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarleeto%2Fgodog?ref=badge_large)
